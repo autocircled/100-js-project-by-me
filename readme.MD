@@ -7,3 +7,4 @@ This is a practice repo where I have created 100 Javascript projects.
 
 - 001 Age Calculator
 - 002 BMI Calculator
+- 003 Counter
